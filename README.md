@@ -7,7 +7,7 @@ Web Developer and AI Enthusiast
 I am highly interested to start my career in software development blended with Artificial Intelligence. I am an avid learner who is pushing his limits consistently to reach his ultimate goal. If you want me to collaborate on any project related to my stack, I am highly open to make my contribution.
 
 *   🌍  I'm based in New York, US
-*   🖥️  See my portfolio at (http://priteshdube.guthub.io)
+*   🖥️  See my portfolio at https://priteshdube.guthub.io
 *   ✉️  You can contact me at [dubeypritesh88@gmail.com](mailto:dubeypritesh88@gmail.com)
 *   🤝  I'm open to collaborating on MERN Stack project
 *   ⚡  My hobbies includes watching movies and web series, dancing and singing.### Skills 

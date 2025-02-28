@@ -4,7 +4,6 @@ Hi 👋 My name is Pritesh Dube
 Web Developer and AI Enthusiast
 -------------------------------
 
-* 🌍  I'm based in Nashville, Tennesse.
 * ✉️  You can contact me at [dubeypritesh88@gmail.com](mailto:dubeypritesh88@gmail.com)
 * 🧠  I'm a full stack web developer and AI enthusiast.
 * 🤝  I'm open to collaborating on Web Development Projects

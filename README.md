@@ -28,6 +28,8 @@ I'm a passionate full-stack web developer and AI enthusiast. I’m currently pur
 - 📧 Email: [dubeypritesh88@gmail.com](mailto:dubeypritesh88@gmail.com)
 - 🌐 GitHub: [github.com/priteshdube](https://github.com/priteshdube)
 - 💼 LinkedIn: [linkedin.com/in/pritesh-dubey](https://linkedin.com/in/pritesh-dubey)
+- 🖥️ Portfolio: [priteshdube.vercel.app](https://priteshdube.vercel.app)
+
 
 ---
 
